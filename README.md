@@ -1,1 +1,1 @@
-# qqr
+# q-guide
